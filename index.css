@@ -1,7 +1,7 @@
 body { 
     margin: 0; 
     font-family: Arial, sans-serif; 
-    background-image: url('college.jpg'); /* Replace with your image path */ 
+    background-image: url('https://media.getmyuni.com/azure/college-images-test/mother-theresa-institute-of-engineering-and-technology-mtiet-chittoor/f0b2fd041e0d4ea58933d59a57e13ec5.jpeg'); /* Replace with your image path */ 
     background-size: cover; 
     color: white; 
 } 
